@@ -28,3 +28,13 @@
 ### 2.Transformer XL
 
 
+
+
+
+
+
+
+
+#### pre-trained paper lists
+
+- 论文原文
